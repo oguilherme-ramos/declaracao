@@ -32,7 +32,7 @@ const reasonsList: Reason[] = [
 { id: 27, text: "Você é meu lugar favorito", icon: "Map" },
 { id: 29, text: "Nossas fotos em momentos simples", icon: "Camera" },
 { id: 30, text: "Seu cuidado com quem você ama", icon: "HandsHeart" },
-{ id: 31, text: "Seu abraço do nada que me desmonta", icon: "Armchair" },
+{ id: 31, text: "Seu abraço que me desmonta", icon: "Armchair" },
 { id: 32, text: "Seu jeito de falar das coisas que ama", icon: "HeartPulse" },
 { id: 33, text: "Nossa sintonia absurda", icon: "Infinity" },
 { id: 34, text: "Seu jeitinho de me provocar", icon: "Flame" },
