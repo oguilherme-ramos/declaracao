@@ -48,7 +48,7 @@ const reasonsList: Reason[] = [
 { id: 47, text: "O jeito que se preocupa comigo", icon: "FirstAidKit" },
 { id: 48, text: "Seu beijo que vicia", icon: "Candy" },
 { id: 49, text: "As saudades que sinto de você", icon: "Hourglass" },
-{ id: 50, text: "Seu sorriso quando me pega olhando", icon: "ZoomIn" },
+{ id: 50, text: "Seu sorriso quando me pega olhando pra você", icon: "ZoomIn" },
 { id: 51, text: "O jeito que diz que me ama", icon: "Megaphone" },
 { id: 52, text: "Você torna meus dias melhores", icon: "CloudSun" },
 { id: 53, text: "Seu cuidado com os bichinhos", icon: "Cat" },
